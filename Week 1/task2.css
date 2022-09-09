@@ -1,0 +1,14 @@
+p
+{
+    color: red;
+}
+.title
+{
+    color: cyan;
+}
+
+#hello
+{
+    size: small;
+    border: 5px solid purple;
+}
